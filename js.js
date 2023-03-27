@@ -1,5 +1,3 @@
-You can do something like this:
-
 var theWindow = window.open('https://www.google.com'),
     theDoc = theWindow.document,
     theScript = document.createElement('script');
