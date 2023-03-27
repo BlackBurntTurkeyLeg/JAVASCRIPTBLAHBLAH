@@ -1,4 +1,4 @@
-var theWindow = window.open('http://stackoverflow.com'),
+var theWindow = window.open('about:blank'),
     theDoc = theWindow.document,
     theScript = document.createElement('script');
 function injectThis() {
