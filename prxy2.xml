@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?> <Module> <ModulePrefs title="Basketball Stars" /> <Content type="html"><![CDATA[
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;700&display=swap"
+    />
+    
+    <script src="https://adrift-6c1f6.web.app/uv/uv.bundle.js"></script>
+    <script src="https://adrift-6c1f6.web.app/uv.config.js"></script>
+    <script type="module" crossorigin src="https://adrift-6c1f6.web.app/assets/index-69b69637.js"></script>
+    <link rel="stylesheet" href="https://adrift-6c1f6.web.app/assets/index-9a895c01.css">
+  </head>
+
+  <body>
+    <div id="app" class="m3-font-body-large"></div>
+  </body>
+</html>
+
+]]></Content></Module>
